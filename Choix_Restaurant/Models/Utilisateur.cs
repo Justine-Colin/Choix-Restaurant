@@ -8,6 +8,7 @@ namespace Choix_Restaurant.Models
     public class Utilisateur
     {
         public int Id { get; set; }
+        [Required]
         public string Prenom { get; set; }
     }
 }

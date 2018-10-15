@@ -8,6 +8,7 @@ namespace Choix_Restaurant.Models
     public class Resto
     {
         public int Id { get; set; }
+        [Required]
         public string Nom { get; set; }
         public string Telephone { get; set; }
     }

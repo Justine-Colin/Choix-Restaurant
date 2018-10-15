@@ -23,3 +23,7 @@ C:\Users\juju_\source\repos\Choix_Restaurant\Choix_Restaurant.Tests\obj\Debug\Ch
 C:\Users\juju_\source\repos\Choix_Restaurant\Choix_Restaurant.Tests\bin\Debug\Choix_Restaurant.Tests.dll.config
 C:\Users\juju_\source\repos\Choix_Restaurant\Choix_Restaurant.Tests\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\juju_\source\repos\Choix_Restaurant\Choix_Restaurant.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Justine\Source\Repos\Choix-Restaurant\Choix_Restaurant.Tests\obj\Debug\Choix_Restaurant.Tests.csprojAssemblyReference.cache
+C:\Users\Justine\Source\Repos\Choix-Restaurant\Choix_Restaurant.Tests\obj\Debug\Choix_Restaurant.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Justine\Source\Repos\Choix-Restaurant\Choix_Restaurant.Tests\obj\Debug\Choix_Restaurant.Tests.dll
+C:\Users\Justine\Source\Repos\Choix-Restaurant\Choix_Restaurant.Tests\obj\Debug\Choix_Restaurant.Tests.pdb

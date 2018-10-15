@@ -61,3 +61,7 @@ C:\Users\juju_\source\repos\Choix_Restaurant\Choix_Restaurant\obj\Debug\Choix_Re
 C:\Users\juju_\source\repos\Choix_Restaurant\Choix_Restaurant\obj\Debug\Choix_Restaurant.csproj.CopyComplete
 C:\Users\juju_\source\repos\Choix_Restaurant\Choix_Restaurant\obj\Debug\Choix_Restaurant.dll
 C:\Users\juju_\source\repos\Choix_Restaurant\Choix_Restaurant\obj\Debug\Choix_Restaurant.pdb
+C:\Users\Justine\Source\Repos\Choix-Restaurant\Choix_Restaurant\obj\Debug\Choix_Restaurant.csprojAssemblyReference.cache
+C:\Users\Justine\Source\Repos\Choix-Restaurant\Choix_Restaurant\obj\Debug\Choix_Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Justine\Source\Repos\Choix-Restaurant\Choix_Restaurant\obj\Debug\Choix_Restaurant.dll
+C:\Users\Justine\Source\Repos\Choix-Restaurant\Choix_Restaurant\obj\Debug\Choix_Restaurant.pdb
